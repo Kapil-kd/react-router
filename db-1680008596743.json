@@ -1,0 +1,46 @@
+{
+  "careers": [
+    {
+      "id": 1,
+      "title": "Senior react developer",
+      "salary": 50000,
+      "location": "chennai"
+    },
+    {
+      "id": 2,
+      "title": "react developer",
+      "salary": 200000,
+      "location": "chennai"
+    },
+    {
+      "id": 3,
+      "title": "Senior Vue developer",
+      "salary": 560000,
+      "location": "Delhi"
+    },
+    {
+      "id": 4,
+      "title": "Senior angular developer",
+      "salary": 90000,
+      "location": "chennai"
+    },
+    {
+      "id": 5,
+      "title": "Senior java developer",
+      "salary": 80000,
+      "location": "Bangalore"
+    },
+    {
+      "id": 6,
+      "title": "Senior python developer",
+      "salary": 60000,
+      "location": "chennai"
+    },
+    {
+      "id": 7,
+      "title": "Senior fullstack developer",
+      "salary": 70000,
+      "location": "Karur"
+    }
+  ]
+}
